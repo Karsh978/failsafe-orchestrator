@@ -1,0 +1,6 @@
+{
+  "ai_hedge_fund": "http://localhost:8001/api/v1/analyze-portfolio",
+  "aegis_forensics": "http://localhost:8002/api/v1/audit",
+  "money_printer_turbo": "http://localhost:8003/api/v1/video/generate",
+  "biomni": "http://localhost:8004/api/v1/analyze"
+}
